@@ -1,5 +1,5 @@
-# DRY
-> This DRY site to test how effective my code is and whether it follows HTML, CSS, and JavaScript best practices.
+# DRY-KISS-YAGNI
+> This DRY-KISS-YAGNI brance is to test how effective my code is and whether it follows HTML, CSS, and JavaScript best practices.
 
 
 ## Built With
@@ -17,13 +17,13 @@
 
 ## Live Demo
 
-https://epaltechs.github.io/DRY
+https://epaltechs.github.io/DRY-KISS-YAGNI
 
 ## Authors
 
 👤 **Emmanuel Paul**
 
-- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/DRY)
+- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/DRY-KISS-YAGNI)
 - Twitter: [Emmanuel Paul](http://twitter.com/@emmapaul247)
 - LinkedIn: [Emmanuel Paul](https://www.linkedin.com/in/emmanuel-paul-a2bab7b4)
 
