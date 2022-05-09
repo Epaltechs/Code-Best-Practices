@@ -18,11 +18,12 @@
 
 https://epaltechs.github.io/DRY-KISS-YAGNI
 
-## Authors
+## Author
 
 👤 **Emmanuel Paul**
 
 - GitHub: [Emmanuel Paul](https://github.com/Epaltechs/DRY-KISS-YAGNI)
+
 - Twitter: [Emmanuel Paul](http://twitter.com/@emmapaul247)
 - LinkedIn: [Emmanuel Paul](https://www.linkedin.com/in/emmanuel-paul-a2bab7b4)
 
